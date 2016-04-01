@@ -1,0 +1,9 @@
+/node_modules
+.env
+.idea/
+/public/files/*
+/public/js/libs/kcfinder/upload/*
+!/public/files/images/default.jpg
+!/public/js/libs/kcfinder/upload/.htaccess
+/_ide_helper.php
+/vendor
